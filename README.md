@@ -1,5 +1,5 @@
 # amazon-multiinput-sentiment-classification-with-bert
-Amazon MultiInput Sentiment Classification with BERT
+First posted in [Kaggle](https://www.kaggle.com/code/wesleyacheng/amazon-multiinput-sentiment-classification-w-bert)
 
 # Introduction
 
